@@ -1,0 +1,13 @@
+/g/data/je52/xd5809/envs/scAnalysis/bin/python3: Error while finding module specification for 'pipeline.run_pipeline' (ModuleNotFoundError: No module named 'pipeline')
+
+======================================================================================
+                  Resource Usage on 2026-07-22 17:10:18:
+   Job Id:             174419688.gadi-pbs
+   Project:            je52
+   Exit Status:        1
+   Service Units:      0.63
+   NCPUs Requested:    16                  CPU Time Used: 00:00:09        
+   Memory Requested:   500.0GB               Memory Used: 265.32MB        
+   Walltime Requested: 05:00:00            Walltime Used: 00:00:47        
+   JobFS Requested:    500.0MB                JobFS Used: 0B              
+======================================================================================

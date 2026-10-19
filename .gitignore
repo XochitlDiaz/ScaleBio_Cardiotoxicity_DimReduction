@@ -1,0 +1,6 @@
+data/
+results/
+results_v1/
+**/log/
+**/logs/
+**/__pycache__
